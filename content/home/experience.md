@@ -38,7 +38,7 @@ date_format = "Jan 2006"
   location = "New York"
   date_start = "2018-05-15"
   date_end = "2019-05-15"
-  # description = """Taught electronic engineering and researched semiconductor physics."""
+  
   * Developed a course selection system on the blockchain platform, Hyperledger Composer in **Javascript**.
   *	Designed a voting mechanism with an “action list” to handle unexpected situations in blockchain code.
   *	Augmented this mechanism with generic principles. Created generic **APIs** for incoming blockchain code.
