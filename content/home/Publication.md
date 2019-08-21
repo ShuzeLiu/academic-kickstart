@@ -46,5 +46,6 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
-**Shuze Liu**, Farhad Mohsin, Oshani Seneviratne, Lirong Xia. Strengthening Smart Contracts to Handle Unexpected Situations. **Published on IEEE International Conference on Decentralized Applications and Infrastructures**     [PDF](https://ieeexplore.ieee.org/document/8783180)
+**Shuze Liu**, Farhad Mohsin, Oshani Seneviratne, Lirong Xia. Strengthening Smart Contracts to Handle Unexpected Situations. **Published on IEEE International Conference on Decentralized Applications and Infrastructures**     
+[[PDF]](https://ieeexplore.ieee.org/document/8783180)
 
