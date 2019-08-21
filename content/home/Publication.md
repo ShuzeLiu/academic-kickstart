@@ -46,12 +46,5 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
-
-Welcome to the **personal demo** of Academic. Other demos available include:
-
-- [**Project Demo** (Academic's actual site)](https://sourcethemes.com/academic/)
-
-**Over 100,000 [Amazing Websites](https://sourcethemes.com/academic/#expo) have Already Been Built with Academic**
-
-**[Join](https://sourcethemes.com/academic/docs/install/) the Most Empowered Hugo Community**
+**Shuze Liu**, Farhad Mohsin, Oshani Seneviratne, Lirong Xia. Strengthening Smart Contracts to Handle Unexpected Situations. **Published on IEEE International Conference on Decentralized Applications and Infrastructures** [Link](https://ieeexplore.ieee.org/document/8783180)
 
