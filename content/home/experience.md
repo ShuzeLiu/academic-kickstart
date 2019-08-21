@@ -33,7 +33,7 @@ date_format = "Jan 2006"
   """
 
 [[experience]]
-  title = "Researcher"
+  title = "Undergraduate Researcher"
   company = "Rensselaer Polytechnic Institute"
   company_url = "https://www.rpi.edu/"
   location = "New York"
