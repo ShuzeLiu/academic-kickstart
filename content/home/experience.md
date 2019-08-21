@@ -18,27 +18,30 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "CEO"
-  company = "GenCoin"
-  company_url = ""
-  location = "California"
-  date_start = "2017-01-01"
-  date_end = ""
+  title = "Algorithm Engineer Intern"
+  company = "Alibaba Group"
+  company_url = "https://www.alibabagroup.com/en/global/home"
+  location = "Hangzhou, China"
+  date_start = "2019-06-17"
+  date_end = "2019-08-14"
   description = """
-  Responsibilities include:
-  
-  * Analysing
-  * Modelling
-  * Deploying
+  * Developed a program in **Python** to test actual performance of  twelve convolutional neural networks on the server.
+  * Implemented ShuffleNet v2 by MxNet in **Python**. Trained the convolutional neural network on clothing pictures.
+  * Achieved 91.8% accuracy on clothing classification problem and decreased training time by tuning the hyperparameters.
+  * Developed an **API** for this CNN to allow the City Brain project to feed any size of pictures and get their labels.
   """
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
-  company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  title = "Researcher"
+  company = "Rensselaer Polytechnic Institute"
+  company_url = "https://www.rpi.edu/"
+  location = "New York"
+  date_start = "2018-05-15"
+  date_end = "2019-05-15"
+  # description = """Taught electronic engineering and researched semiconductor physics."""
+  * Developed a course selection system on the blockchain platform, Hyperledger Composer in **Javascript**.
+  *	Designed a voting mechanism with an “action list” to handle unexpected situations in blockchain code.
+  *	Augmented this mechanism with generic principles. Created generic **APIs** for incoming blockchain code.
+  *	Implemented a pre-processer in **C++** to parse incoming blockchain code and automatically decorate the chaincode with the above design.
 
 +++
