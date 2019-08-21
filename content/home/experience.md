@@ -40,8 +40,8 @@ date_format = "Jan 2006"
   date_start = "2018-05-15"
   date_end = "2019-05-15"
   description = """
-  
-  * Developed a course selection system on the blockchain platform, Hyperledger Composer in Javascript.
+  r
+  * Developed a course selection system on the blockchain platform, Hyperledger Composer in **Javascript**.
   *	Designed a voting mechanism with an “action list” to handle unexpected situations in blockchain code.
   *	Augmented this mechanism with generic principles. Created generic **APIs** for incoming blockchain code.
   *	Implemented a pre-processer in **C++** to parse incoming blockchain code and automatically decorate the chaincode with the above design.
