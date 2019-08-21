@@ -34,6 +34,7 @@ education:
   - course: B.S. in Computer Science
     institution: Rensselaer Polytechnic Institute
     year: 2019
+    GPA: 4.0
 
 
 # Social/Academic Networking
