@@ -26,10 +26,10 @@ date_format = "Jan 2006"
   date_end = "2019-08-14"
   description = """
   Focused on **Image Classification**
-  *	Developed a program in **Python** to test actual performance of  twelve convolutional neural networks on the server. 
-  * Implemented ShuffleNet v2 by MxNet in **Python**. Trained the convolutional neural network on clothing pictures.
-  * Achieved 91.8% accuracy on clothing classification problem and decreased training time by tuning the hyperparameters.
-  * Developed an **API** for this CNN to allow the City Brain project to feed any size of pictures and get their labels.
+  # *	Developed a program in **Python** to test actual performance of  twelve convolutional neural networks on the server. 
+  # * Implemented ShuffleNet v2 by MxNet in **Python**. Trained the convolutional neural network on clothing pictures.
+  # * Achieved 91.8% accuracy on clothing classification problem and decreased training time by tuning the hyperparameters.
+  # * Developed an **API** for this CNN to allow the City Brain project to feed any size of pictures and get their labels.
   """
 
 [[experience]]
@@ -41,9 +41,9 @@ date_format = "Jan 2006"
   date_end = "2019-05-15"
   description = """
   Focused on **Blockchain** 
-  * Developed a course selection system on the blockchain platform, Hyperledger Composer in **Javascript**.
-  *	Designed a voting mechanism with an “action list” to handle unexpected situations in blockchain code.
-  *	Augmented this mechanism with generic principles. Created generic **APIs** for incoming blockchain code.
-  *	Implemented a pre-processer in **C++** to parse incoming blockchain code and automatically decorate the chaincode with the above design.
+  # * Developed a course selection system on the blockchain platform, Hyperledger Composer in **Javascript**.
+  # *	Designed a voting mechanism with an “action list” to handle unexpected situations in blockchain code.
+  # *	Augmented this mechanism with generic principles. Created generic **APIs** for incoming blockchain code.
+  # *	Implemented a pre-processer in **C++** to parse incoming blockchain code and automatically decorate the chaincode with the above design.
   """
 +++
