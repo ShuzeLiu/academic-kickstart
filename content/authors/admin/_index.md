@@ -74,6 +74,6 @@ user_groups:
 - Researchers
 - Visitors
 ---
-I am a master's student in Computer Science at Yale University. I received my B.S. degree in CS from Rensselaer Polytechnic Institute, being advised by Professor Lirong Xia. My research and internship focused on Blockchain and Deep Learning. My programming skills focused on developing new designs and reliable APIs for users.
+I am a master's student in Computer Science at Yale University. My research and internship focused on Blockchain and Deep Learning. My programming skills focused on developing new designs and reliable APIs for users.
 
-With strong experience in backend development and API development, I am actively seeking for a full time position in Software Development Engineer.
+With strong experience in backend development and API development, I am actively seeking for a full time position in Software Development Engineer which starts after May, 2020.
