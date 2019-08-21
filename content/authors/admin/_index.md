@@ -55,9 +55,9 @@ social:
   icon_pack: fab
   link: https://github.com/ShuzeLiu
 # Linkedin
-  - icon: linkedin-in
+- icon: linkedin-in
   icon_pack: fab
-  link: files/cv.pdf
+  link: https://www.linkedin.com/in/shuze-liu-173995171/
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your  resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
 - icon: cv
