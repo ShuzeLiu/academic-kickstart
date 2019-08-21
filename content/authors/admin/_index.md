@@ -74,5 +74,5 @@ user_groups:
 - Researchers
 - Visitors
 ---
-I am a master's student in Computer Science at Yale University. After received my B.S from Rensslear Polythecnic Institute, I did my internship at Alibaba Group.
+I am a master's student in Computer Science at Yale University. After received my B.S from [Rensslear Polythecnic Institute](https://www.rpi.edu/), I did my internship at [Alibaba Group]https://www.alibabagroup.com/en/global/home.
 I am actively seeking for a full time position in Software Development Engineer which starts after May, 2020.
