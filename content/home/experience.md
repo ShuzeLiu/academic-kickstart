@@ -26,13 +26,9 @@ date_format = "Jan 2006"
   date_end = "2019-08-14"
   description = """
   
-  
-  •	Developed a program in **Python** to test actual performance of  twelve convolutional neural networks on the server.
-  
+  •	Developed a program in **Python** to test actual performance of  twelve convolutional neural networks on the server. \\
   • Implemented ShuffleNet v2 by MxNet in **Python**. Trained the convolutional neural network on clothing pictures.
-  
   • Achieved 91.8% accuracy on clothing classification problem and decreased training time by tuning the hyperparameters.
-  
   • Developed an **API** for this CNN to allow the City Brain project to feed any size of pictures and get their labels.
   """
 
