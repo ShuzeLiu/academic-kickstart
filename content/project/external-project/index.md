@@ -1,14 +1,14 @@
 ---
 title: External Project
-summary: An example of linking directly to an external project website using `external_link`.
+summary: GoSki, an IOS App provides mountains' information, tutorials and friends. `Link`.
 tags:
-- Demo
-date: "2016-04-27T00:00:00Z"
+- GoSki
+date: "2019-04-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
-external_link: http://example.org
+Link: https://github.com/h-h-r/GOSKI
 
 image:
-  caption: Photo by Toa Heftiba on Unsplash
+  caption: Goski
   focal_point: Smart
 ---
