@@ -1,5 +1,5 @@
 ---
-title: External Project
+title: GoSki
 summary: GoSki, an IOS App provides mountains' information, tutorials and friends. `Link`.
 tags:
 - GoSki
