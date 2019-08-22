@@ -77,4 +77,5 @@ user_groups:
 I am a master's student in Computer Science at [Yale University](https://www.yale.edu/). In summer 2019, I did my internship at [Alibaba Group](https://www.alibabagroup.com/en/global/home).
 
 I am actively seeking for a full time position in Software Development Engineer.
+
 [My Resume](files/Shuze_Liu_Resume.pdf)
