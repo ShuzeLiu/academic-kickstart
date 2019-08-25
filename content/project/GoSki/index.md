@@ -1,6 +1,6 @@
 ---
 title: GoSki
-summary: GoSki, an iOS App which provides mountains' information, tutorials and friends. 
+summary: GoSki, an iOS App which provides ski mountain information, tutorials and friends. 
          [[Github]](https://github.com/h-h-r/GOSKI).
 tags:
 - GoSki
