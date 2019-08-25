@@ -43,5 +43,5 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
-- Undergraduate Teaching Assistant: Introduction to Algorithm (Spring 2019)
+- Undergraduate Teaching Assistant: Introduction to Algorithms (Spring 2019)
 - Undergraduate Teaching Assistant: Introduction to Logic (Fall 2018)
