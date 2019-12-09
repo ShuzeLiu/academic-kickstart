@@ -21,9 +21,8 @@ organizations:
 # bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-- Back-end Development
-- API Development
-- Deep Learning
+- Artifical Intelligence
+- Algorithms
 - Blockchain
 
 education:
@@ -74,8 +73,7 @@ user_groups:
 - Researchers
 - Visitors
 ---
-I am a master's student in Computer Science at [Yale University](https://www.yale.edu/). In summer 2019, I did my internship at [Alibaba Group](https://damo.alibaba.com/).
+I am a master's student in Computer Science at [Yale University](https://www.yale.edu/). I did my undergraduate at RPI. In summer 2019, I did my internship at [Alibaba Group](https://damo.alibaba.com/).
 
-I am actively seeking for a full time position as a Software Development Engineer.
 
 [My Resume](files/Shuze_Liu_Resume.pdf)
