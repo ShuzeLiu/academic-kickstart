@@ -28,9 +28,9 @@ interests:
 
 education:
   courses:
-  - course: Ph.D. student in Computer Science
+  - course: Ph.D. in Computer Science
     institution: University of Virginia
-    year: 2020 -- Current
+    year: Ongoing from 2020
   - course: M.S. in Computer Science
     institution: Yale University
     year: 2020
@@ -77,7 +77,7 @@ user_groups:
 - Researchers
 - Visitors
 ---
-I am Ph.D student at University of [Virginia](https://www.virginia.edu/) and am fortunate to be advised by advised by [Haifeng Xu](http://www.haifeng-xu.com/). I received my master's degree in Computer Science from [Yale University](https://www.yale.edu/) and my bachelor's degree from [Rensselaer Polytechnic Institute](https://www.rpi.edu/). In summer 2019, I did my internship at [Alibaba Group](https://damo.alibaba.com/) Damo Academy.
+I am a Ph.D. student at [University of Virginia](https://www.virginia.edu/) and am fortunate to be advised by Prof. [Haifeng Xu](http://www.haifeng-xu.com/). I received my master's degree from [Yale University](https://www.yale.edu/) and my bachelor's degree from [Rensselaer Polytechnic Institute](https://www.rpi.edu/). In summer 2019, I did my internship at [Alibaba Group](https://damo.alibaba.com/) Damo Academy.
 
 
 [My Resume](files/Shuze_Liu_Resume.pdf)
