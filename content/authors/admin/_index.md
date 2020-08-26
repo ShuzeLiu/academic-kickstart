@@ -10,23 +10,27 @@ authors:
 superuser: true
 
 # Role/position
-role: Master's student in Computer Science
+role: Ph.D. student in Computer Science
 
 # Organizations/Affiliations
 organizations:
-- name: Yale University
+- name: University of Virginia
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
 # bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-- Artifical Intelligence
-- Algorithms
-- Blockchain
+- Game Theory
+- Information Pricing
+- Mechanism Design
+
 
 education:
   courses:
+  - course: Ph.D. student in Computer Science
+    institution: University of Virginia
+    year: 2020 -- Current
   - course: M.S. in Computer Science
     institution: Yale University
     year: 2020
@@ -47,9 +51,9 @@ social:
 #- icon: twitter
 #  icon_pack: fab
 #  link: https://twitter.com/GeorgeCushen
-#- icon: google-scholar
-#  icon_pack: ai
-#  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+- icon: google-scholar
+  icon_pack: ai
+  link: https://scholar.google.com/citations?user=OVAJS8cAAAAJ&hl=en
 - icon: github
   icon_pack: fab
   link: https://github.com/ShuzeLiu
@@ -73,7 +77,7 @@ user_groups:
 - Researchers
 - Visitors
 ---
-I am a master's student in Computer Science at [Yale University](https://www.yale.edu/). I did my undergraduate at [Rensselaer Polytechnic Institute](https://www.rpi.edu/). In summer 2019, I did my internship at [Alibaba Group](https://damo.alibaba.com/) Damo Academy.
+I am Ph.D student at University of [Virginia](https://www.virginia.edu/) and am fortunate to be advised by advised by [Haifeng Xu](http://www.haifeng-xu.com/). I received my master's degree in Computer Science from [Yale University](https://www.yale.edu/) and my bachelor's degree from [Rensselaer Polytechnic Institute](https://www.rpi.edu/). In summer 2019, I did my internship at [Alibaba Group](https://damo.alibaba.com/) Damo Academy.
 
 
 [My Resume](files/Shuze_Liu_Resume.pdf)
